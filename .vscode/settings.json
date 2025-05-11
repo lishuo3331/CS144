@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "span": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "iomanip": "cpp",
+        "ranges": "cpp",
+        "sstream": "cpp"
+    }
+}
